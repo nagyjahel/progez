@@ -1,0 +1,56 @@
+#cube-3d-sliders-list {
+	margin-top: 20px;
+}
+
+#cube-3d-sliders-list .cube-3d-slider {
+	padding: 10px;
+	background: #ddd;
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+
+#cube-3d-sliders-list .remove {
+	cursor: pointer;
+}
+
+.add_new_c3s {
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.add_new_c3s img {
+	vertical-align: middle;
+}
+
+#form_new_c3s {
+	display: none;
+	background: #ddd;
+    padding: 10px;
+    width: 600px;
+}
+
+#form_new_c3s input[type=submit] {
+	background: #03a6ff;
+    border: medium none;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.form_c3s .accordion {
+	width: 600px;
+}
+
+.form_c3s label {
+	display: inline-block;
+	width: 160px;
+	vertical-align: top;
+}
+
+.form_c3s input[type=text] {
+	width: 100px;
+}

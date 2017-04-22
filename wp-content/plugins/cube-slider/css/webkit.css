@@ -1,0 +1,19 @@
+/*                       
+Description :full Webkit + Safari Webkit iPad 1+2        
+Author      :AXON AGENCIA WEB - www.axon.cat                  
+*/
+
+
+/*====================*/
+/*    Motor WebKit    */
+/*====================*/
+@media screen and (-webkit-min-device-pixel-ratio:0){
+
+
+/*====================*/
+/*     iPAD 1 + 2     */
+/*====================*/
+@media only screen
+and (min-device-width:768px) and (max-device-width:1024px) {
+
+}
